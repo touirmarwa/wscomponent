@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.deco{
+  color: grey;
+  text-align: center;
+  margin: auto;
+  border: grey  5px solid;
+  border-radius: 3px;
+  width: 30%;
+  margin-top: 25px;
+}
